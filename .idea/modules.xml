@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/Product_pipe_exercise-master/ProjectExercise.iml" filepath="$PROJECT_DIR$/Product_pipe_exercise-master/ProjectExercise.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/Yr4-Wk9-Integrating-RabbitMQ-with-Product-Service-master.iml" filepath="$PROJECT_DIR$/.idea/Yr4-Wk9-Integrating-RabbitMQ-with-Product-Service-master.iml" />
-    </modules>
-  </component>
-</project>
